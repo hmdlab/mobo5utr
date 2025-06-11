@@ -77,5 +77,19 @@ This section includes two notebooks, `notebooks/compare_ranking.ipynb` and `sequ
 ## Citation
 If you use this code for your research, please cite:
 ```
-citation info to be provided.
+@ARTICLE{Yamada2025-um,
+  title     = "Multi-objective computational optimization of human 5' {UTR}
+               sequences",
+  author    = "Yamada, Keisuke and Suga, Kanta and Abe, Naoko and Hashimoto,
+               Koji and Tsutsumi, Susumu and Inagaki, Masahito and Hashiya,
+               Fumitaka and Abe, Hiroshi and Hamada, Michiaki",
+  journal   = "Briefings in bioinformatics",
+  publisher = "Oxford University Press (OUP)",
+  volume    =  26,
+  number    =  3,
+  pages     = "bbaf225",
+  month     =  may,
+  year      =  2025,
+  language  = "en"
+}
 ```
